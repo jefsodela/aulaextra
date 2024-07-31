@@ -1,14 +1,13 @@
 .cabecalho {
-    background: linear-gradient(black,red);
+    background: linear-gradient(black,rgb(255, 0, 0));
     color: blue;
     display: flex;
     padding: 24px 0;
     ;
-    line
 }
 
-.section1 {
-    background-color: brown;
+.section1{
+    background-color: rgb(255, 0, 0);
     padding: 100px;
 }
 
