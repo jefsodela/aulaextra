@@ -1,8 +1,10 @@
 .cabecalho {
-    background-color: black;
+    background: linear-gradient(black,red);
     color: blue;
     display: flex;
     padding: 24px 0;
+    ;
+    line
 }
 
 .section1 {
